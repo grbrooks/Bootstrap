@@ -1,4 +1,1 @@
-<?php
-if(isset($_POST['email'])){
-    var_dump($_POST['email']);
-}
+<?php print("It worked!");?>
