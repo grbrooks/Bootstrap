@@ -1,2 +1,4 @@
 <?php
-if(iffes($))
+if(isset($_POST['email'])){
+    var_dump($_POST['email']);
+}
